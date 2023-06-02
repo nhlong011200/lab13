@@ -1,0 +1,82 @@
+/* .bg-dark {
+  background-color: #212529 !important;
+} */
+
+/* .fixed-top {
+  position: fixed;
+  top: 0;
+  right: 0;
+  left: 0;
+  z-index: 1030;
+} */
+
+/* @media (min-width: 768px) {
+  .navbar-expand-md {
+    flex-wrap: nowrap;
+    justify-content: flex-start;
+  }
+} */
+
+/* .navbar {
+  position: relative;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+} */
+
+/* .navbar-toggler {
+  padding: 0.25rem 0.75rem;
+  font-size: 1.25rem;
+  line-height: 1;
+  background-color: transparent;
+  border: 1px solid transparent;
+  border-radius: 0.25rem;
+  transition: box-shadow 0.15s ease-in-out;
+} */
+/* .carousel {
+  margin-bottom: 4rem;
+}
+.carousel {
+  position: relative;
+}
+.carousel-indicators {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  z-index: 2;
+  display: flex;
+  justify-content: center;
+  padding: 0;
+  margin-right: 15%;
+  margin-bottom: 1rem;
+  margin-left: 15%;
+  list-style: none;
+}
+
+.carousel-inner {
+  position: relative;
+  width: 100%;
+  overflow: hidden;
+} */
+
+/* .bg-img1 {
+  background-color: #000;
+  background-size: cover;
+  background-image: linear-gradient(to bottom, #ffffff, #000000);
+} */
+
+/* .bg-img2 {
+  background-color: #000;
+  background-size: cover;
+  background-image: linear-gradient(to bottom, #ffffff, #000000);
+} */
+
+/* .bg-img3 {
+  background-color: #000;
+  background-size: cover;
+  background-image: linear-gradient(to bottom, #ffffff, #000000);
+} */
